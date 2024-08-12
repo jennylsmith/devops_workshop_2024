@@ -210,3 +210,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# project specific
+my-db.duckdb
+
